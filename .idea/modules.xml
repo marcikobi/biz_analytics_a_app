@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/biz_analytics_a_app.iml" filepath="$PROJECT_DIR$/.idea/biz_analytics_a_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../biz_analytics_a_starter/.idea/biz_analytics_a_starter.iml" filepath="$PROJECT_DIR$/../../biz_analytics_a_starter/.idea/biz_analytics_a_starter.iml" />
+    </modules>
+  </component>
+</project>
