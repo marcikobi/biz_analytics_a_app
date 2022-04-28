@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import csv
 
-st.title("Alkoholkonsum")
+st.title("Vorhersage des jährlichen Alkoholkonsums in der EU und ausgewählten Ländern")
 
 from scipy.stats import linregress
 
@@ -64,18 +64,43 @@ prediction_EU = scipy_model_EU(desired_year)
 prediction_rounded_EU = round(prediction_EU, 2)
 
 if auswahl == "Austria":
+    "Die Vorhersage des Alkoholkonsums für "
+    st.write(auswahl)
+    "für das Jahr"
+    st.write(desired_year)
+    "beträgt"
     st.write(prediction_rounded_AT)
+    "Liter/Kopf"
 
 elif auswahl == "Poland":
+    "Die Vorhersage des Alkoholkonsums für "
+    st.write(auswahl)
+    "für das Jahr"
+    st.write(desired_year)
+    "beträgt"
     st.write(prediction_rounded_PL)
+    "Liter/Kopf"
 
 elif auswahl == "Germany":
+    "Die Vorhersage des Alkoholkonsums für "
+    st.write(auswahl)
+    "für das Jahr"
+    st.write(desired_year)
+    "beträgt"
     st.write(prediction_rounded_GER)
+    "Liter/Kopf"
 
 elif auswahl == "European Union":
+    "Die Vorhersage des Alkoholkonsums für "
+    st.write(auswahl)
+    "für das Jahr"
+    st.write(desired_year)
+    "beträgt"
     st.write(prediction_rounded_EU)
+    "Liter/Kopf"
 
-else: st.write('Bitte Land auswählen')
+else:
+    "bitte Daten auswählen"
 
 
 
