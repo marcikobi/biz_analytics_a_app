@@ -154,9 +154,6 @@ prediction_rounded_LUX = round(prediction_LUX, 2)
 difference_GER = prediction_rounded_GER - prediction_rounded_EU
 difference_rounded_GER = round(difference_GER, 2)
 
-difference_GER = prediction_rounded_GER - prediction_rounded_EU
-difference_rounded_GER = round(difference_GER, 2)
-
 difference_AT = prediction_rounded_AT - prediction_rounded_EU
 difference_rounded_AT = round(difference_AT, 2)
 
