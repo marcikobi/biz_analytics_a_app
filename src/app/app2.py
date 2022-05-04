@@ -1,7 +1,4 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-import csv
 
 st.title("Prediction of annual alcohol consumption per capita in the EU and chosen countries")
 
