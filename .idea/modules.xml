@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp1_data_overview.ipynb.zip/.idea/Temp1_data_overview.ipynb.zip.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp1_data_overview.ipynb.zip/.idea/Temp1_data_overview.ipynb.zip.iml" />
-      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp2_data_overview.ipynb.zip/.idea/Temp2_data_overview.ipynb.zip.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp2_data_overview.ipynb.zip/.idea/Temp2_data_overview.ipynb.zip.iml" />
-      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp3_data_overview.ipynb.zip/.idea/Temp3_data_overview.ipynb.zip.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp3_data_overview.ipynb.zip/.idea/Temp3_data_overview.ipynb.zip.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/biz_analytics_a_app.iml" filepath="$PROJECT_DIR$/.idea/biz_analytics_a_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../biz_analytics_a_starter/.idea/biz_analytics_a_starter.iml" filepath="$PROJECT_DIR$/../../biz_analytics_a_starter/.idea/biz_analytics_a_starter.iml" />
     </modules>
